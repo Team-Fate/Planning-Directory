@@ -1,8 +1,8 @@
 # Planning-Directory
 
-Vladislav Lannister (Scrum Leader)
-Aaron Pastora
-Christian Locke
+Vladislav Lannister (Scrum Leader),
+Aaron Pastora,
+Christian Locke, &
 Brandon Bishop
 
 Your project idea
